@@ -1,0 +1,301 @@
+Date,Category,Product,Region,Units_Sold,Sales_Amount,Profit,Rating
+2024-12-14,Electronics,Headphones,South,9,52638.03,1774.17,5
+2024-08-17,Clothing,Sneakers,West,4,484.86,94.17,4
+2024-09-11,Home & Garden,Lamp,North,3,605.35,153.93,5
+2024-05-23,Home & Garden,Chair,West,7,2409.64,724.92,5
+2024-06-02,Toys,Puzzle,West,8,199.35,67.32,4
+2024-10-14,Toys,Lego,South,8,560.26,213.39,2
+2024-08-08,Home & Garden,Chair,East,10,3957.1,489.7,3
+2024-04-14,Electronics,Monitor,North,1,247.1,50.08,4
+2024-10-28,Toys,Doll,North,10,420.69,112.55,2
+2024-11-13,Electronics,Monitor,North,1,1912.15,641.09,1
+2024-10-24,Toys,Doll,South,8,448.31,83.55,1
+2024-10-07,Books,Novel,West,5,94.5,17.53,3
+2024-11-14,Electronics,Monitor,North,1,730.85,270.67,1
+2024-05-14,Clothing,T-Shirt,North,7,411.56,54.46,3
+2024-11-04,Electronics,Headphones,North,5,5680.28,1367.12,5
+2024-07-30,Toys,Puzzle,East,3,71.0,20.65,5
+2024-11-20,Home & Garden,Lamp,East,8,3146.88,1152.55,4
+2024-04-09,Toys,Action Figure,East,3,194.71,32.85,4
+2024-06-11,Home & Garden,Plant,West,5,1735.33,688.89,1
+2024-01-18,Electronics,Monitor,North,8,15332.92,3953.21,3
+2024-12-18,Books,Biography,West,10,286.56,55.3,5
+2024-09-09,Clothing,T-Shirt,South,10,1944.83,513.84,4
+2024-03-15,Electronics,Monitor,North,5,9751.79,3278.4,2
+2024-12-04,Home & Garden,Chair,South,9,4146.22,751.26,2
+2024-10-09,Books,Novel,South,10,288.99,49.79,3
+2024-02-13,Books,Novel,East,4,175.66,20.92,1
+2024-05-13,Electronics,Smartphone,South,1,1813.03,219.65,5
+2024-03-04,Toys,Puzzle,East,10,783.2,275.88,3
+2024-02-03,Home & Garden,Table,West,8,1057.84,230.03,5
+2024-07-25,Books,Comic,West,4,91.84,32.02,1
+2024-08-08,Home & Garden,Plant,East,2,792.35,267.96,4
+2024-09-10,Clothing,Jeans,East,1,24.74,5.05,5
+2024-05-06,Books,Textbook,South,5,217.44,60.72,2
+2024-12-08,Electronics,Headphones,North,5,1530.12,175.07,5
+2024-11-01,Clothing,Sneakers,East,1,86.61,9.81,5
+2024-11-06,Home & Garden,Plant,South,3,1171.16,196.35,5
+2024-10-31,Toys,Doll,West,4,104.61,32.58,2
+2024-08-08,Home & Garden,Chair,East,5,1399.11,545.01,5
+2024-03-19,Toys,Doll,West,7,278.82,66.94,5
+2024-10-20,Home & Garden,Table,North,1,80.36,23.03,4
+2024-06-19,Electronics,Laptop,South,8,10661.44,1131.01,3
+2024-11-01,Electronics,Monitor,North,8,9234.77,3614.07,5
+2024-05-09,Electronics,Smartphone,North,10,13784.19,2358.35,1
+2024-08-10,Electronics,Headphones,West,10,11808.86,1473.26,5
+2024-11-11,Electronics,Monitor,North,10,6788.21,2655.27,4
+2024-12-13,Electronics,Laptop,West,10,12134.54,2963.65,1
+2024-02-15,Books,Comic,North,4,104.29,18.13,2
+2024-02-12,Electronics,Headphones,North,1,258.34,54.65,2
+2024-04-19,Electronics,Headphones,West,1,1665.95,169.77,1
+2024-07-17,Home & Garden,Lamp,South,10,999.19,233.66,3
+2024-05-02,Electronics,Laptop,South,6,9035.4,2371.0,4
+2024-10-04,Electronics,Monitor,West,6,4290.79,748.92,2
+2024-02-20,Toys,Action Figure,East,3,169.69,42.94,2
+2024-01-10,Toys,Doll,North,6,485.18,155.61,3
+2024-06-18,Books,Comic,East,7,137.18,44.76,3
+2024-10-05,Electronics,Monitor,West,2,2132.81,479.16,2
+2024-06-20,Clothing,T-Shirt,East,2,130.73,47.67,1
+2024-05-05,Electronics,Smartphone,North,4,5032.66,1299.16,1
+2024-11-03,Home & Garden,Plant,West,4,712.33,241.68,2
+2024-06-19,Clothing,T-Shirt,North,9,712.42,101.25,4
+2024-01-03,Electronics,Headphones,East,9,15029.1,4920.02,2
+2024-07-29,Home & Garden,Plant,East,2,194.87,21.33,1
+2024-11-08,Books,Comic,West,10,100.12,17.45,2
+2024-08-25,Home & Garden,Table,North,10,3475.71,678.11,2
+2024-08-15,Home & Garden,Lamp,North,8,2706.42,1043.3,4
+2024-03-12,Books,Novel,East,2,24.2,3.27,1
+2024-09-30,Toys,Lego,North,5,159.35,28.41,5
+2024-01-06,Books,Comic,North,3,140.98,52.05,2
+2024-08-02,Books,Novel,North,3,139.86,41.47,4
+2024-05-05,Electronics,Monitor,North,10,9675.64,3528.96,5
+2024-06-09,Electronics,Monitor,West,8,11052.79,1164.94,1
+2024-11-06,Books,Textbook,North,9,259.67,32.01,1
+2024-10-20,Clothing,T-Shirt,North,8,1352.13,442.06,5
+2024-08-08,Clothing,Jeans,North,8,1255.54,247.47,3
+2024-10-14,Books,Novel,East,8,237.05,76.62,1
+2024-12-09,Electronics,Headphones,East,9,4832.22,880.23,4
+2024-10-03,Electronics,Headphones,North,8,2151.56,605.16,2
+2024-10-19,Clothing,Jacket,West,10,1719.6,357.89,5
+2024-07-13,Clothing,Jeans,North,2,258.19,82.49,1
+2024-04-23,Home & Garden,Chair,East,1,469.16,61.26,3
+2024-02-21,Home & Garden,Table,East,3,892.23,249.55,1
+2024-06-15,Clothing,Jacket,North,1,179.01,57.06,1
+2024-01-26,Toys,Action Figure,East,6,524.16,205.43,4
+2024-05-29,Home & Garden,Table,East,4,1102.22,123.26,2
+2024-09-22,Toys,Puzzle,East,5,370.52,87.07,4
+2024-10-26,Clothing,Sneakers,East,4,757.6,98.65,3
+2024-07-04,Clothing,Jacket,East,1,43.72,4.64,3
+2024-06-24,Home & Garden,Plant,East,1,407.54,119.34,2
+2024-06-22,Home & Garden,Lamp,East,4,506.47,91.48,2
+2024-08-15,Clothing,Sneakers,East,1,129.31,38.53,5
+2024-09-02,Electronics,Headphones,South,7,2051.65,461.3,5
+2024-05-09,Toys,Action Figure,East,1,76.46,26.46,1
+2024-06-30,Electronics,Laptop,East,8,9395.96,2240.29,2
+2024-10-01,Books,Textbook,South,5,61.88,15.38,1
+2024-10-13,Books,Textbook,South,9,424.55,79.59,1
+2024-10-25,Electronics,Monitor,East,8,8388.82,2294.95,2
+2024-05-17,Electronics,Headphones,North,5,3644.89,422.16,5
+2024-02-01,Home & Garden,Table,North,3,1200.0,203.65,3
+2024-12-04,Electronics,Monitor,East,10,13265.93,3048.28,5
+2024-12-18,Home & Garden,Chair,South,8,1912.99,467.91,1
+2024-11-20,Clothing,T-Shirt,East,3,392.98,122.68,1
+2024-04-03,Clothing,T-Shirt,East,8,1094.19,383.22,4
+2024-04-02,Clothing,Jeans,East,6,926.74,251.96,3
+2024-06-18,Toys,Action Figure,West,6,329.19,99.37,4
+2024-04-11,Home & Garden,Table,East,4,624.97,156.9,3
+2024-04-11,Toys,Doll,South,2,46.19,17.27,5
+2024-04-05,Books,Novel,West,8,395.68,69.92,5
+2024-04-06,Electronics,Smartphone,North,6,3938.12,1575.12,1
+2024-06-11,Books,Comic,North,3,41.7,8.46,3
+2024-06-14,Books,Textbook,West,5,124.48,48.25,1
+2024-02-03,Clothing,T-Shirt,East,9,631.4,106.68,1
+2024-06-01,Books,Textbook,North,8,100.1,38.84,5
+2024-10-20,Electronics,Monitor,South,5,6421.55,1955.15,5
+2024-06-05,Home & Garden,Table,North,2,552.06,122.83,3
+2024-05-13,Electronics,Headphones,North,4,2806.5,936.17,3
+2024-01-13,Books,Textbook,North,7,204.9,65.08,5
+2024-10-21,Clothing,Jeans,South,5,174.49,19.74,1
+2024-11-13,Home & Garden,Chair,North,9,3439.04,956.15,5
+2024-08-18,Clothing,T-Shirt,West,6,538.52,182.27,1
+2024-08-29,Clothing,Jeans,North,8,480.13,74.8,2
+2024-01-01,Clothing,Sneakers,East,5,662.22,146.61,5
+2024-07-16,Home & Garden,Chair,South,7,3316.22,1217.21,5
+2024-09-30,Books,Novel,North,10,231.83,23.54,5
+2024-08-14,Books,Novel,North,10,489.76,148.18,1
+2024-04-15,Home & Garden,Lamp,North,10,2323.05,569.86,1
+2024-11-14,Books,Comic,South,2,81.13,10.77,2
+2024-03-13,Clothing,Sneakers,West,4,350.2,87.68,5
+2024-06-04,Books,Comic,East,6,111.7,23.99,4
+2024-06-18,Home & Garden,Lamp,West,8,2949.47,674.94,3
+2024-02-06,Clothing,Sneakers,South,7,760.73,222.93,1
+2024-03-17,Home & Garden,Lamp,West,1,491.34,105.24,5
+2024-09-23,Toys,Puzzle,East,1,72.49,12.08,4
+2024-05-25,Home & Garden,Plant,West,7,3227.79,1159.27,3
+2024-02-08,Clothing,Jeans,North,7,671.42,90.09,5
+2024-07-07,Home & Garden,Chair,West,3,788.95,147.4,3
+2024-10-01,Home & Garden,Chair,South,3,387.98,149.29,5
+2024-09-14,Electronics,Headphones,West,7,2964.79,337.44,5
+2024-05-10,Clothing,T-Shirt,North,7,845.9,90.89,5
+2024-06-18,Books,Textbook,East,5,154.73,39.12,4
+2024-02-01,Electronics,Laptop,North,10,8154.71,2155.02,1
+2024-01-29,Toys,Lego,West,9,637.77,138.56,4
+2024-07-06,Home & Garden,Lamp,West,5,2106.94,352.62,2
+2024-07-08,Clothing,T-Shirt,East,5,118.51,31.74,4
+2024-05-18,Clothing,Sneakers,South,3,488.42,94.48,1
+2024-11-17,Home & Garden,Table,South,10,4165.33,598.61,1
+2024-10-02,Home & Garden,Chair,South,10,566.0,128.45,4
+2024-02-02,Home & Garden,Lamp,South,1,450.66,167.2,5
+2024-12-30,Electronics,Headphones,East,4,7020.18,2560.2,2
+2024-10-27,Toys,Lego,North,6,182.81,59.71,4
+2024-01-03,Toys,Lego,North,5,480.79,97.73,2
+2024-05-15,Books,Comic,West,8,366.52,44.34,4
+2024-03-17,Home & Garden,Chair,East,4,1989.97,473.13,3
+2024-08-30,Electronics,Smartphone,West,7,12389.55,1331.38,5
+2024-08-25,Home & Garden,Lamp,North,10,2109.85,588.39,4
+2024-11-24,Home & Garden,Chair,North,8,2688.5,750.99,2
+2024-04-05,Toys,Puzzle,South,8,610.65,74.9,5
+2024-12-31,Clothing,Jeans,East,2,329.54,60.15,3
+2024-03-04,Electronics,Laptop,East,2,2321.63,313.58,3
+2024-03-28,Electronics,Laptop,North,10,14493.38,2292.58,3
+2024-10-24,Clothing,Sneakers,South,5,601.05,173.2,1
+2024-01-01,Home & Garden,Chair,South,8,2736.61,401.96,5
+2024-07-30,Books,Textbook,East,1,11.63,1.9,2
+2024-09-29,Electronics,Monitor,West,6,8395.06,1702.51,4
+2024-10-30,Books,Biography,West,1,16.87,5.72,3
+2024-01-01,Home & Garden,Plant,West,7,3173.76,770.48,5
+2024-06-24,Clothing,Jeans,West,7,608.48,155.09,5
+2024-12-03,Home & Garden,Plant,West,4,381.42,120.23,1
+2024-01-24,Books,Biography,North,8,184.58,62.95,5
+2024-12-24,Electronics,Smartphone,West,1,980.96,323.83,3
+2024-09-16,Home & Garden,Plant,South,6,1842.84,380.93,3
+2024-08-15,Books,Textbook,South,4,82.9,31.4,3
+2024-04-28,Home & Garden,Table,West,9,4053.74,410.0,3
+2024-02-18,Toys,Puzzle,East,8,536.75,194.4,3
+2024-08-26,Toys,Action Figure,East,6,110.54,24.2,3
+2024-04-24,Books,Textbook,North,4,140.89,16.33,5
+2024-11-07,Clothing,Jeans,West,3,405.06,96.56,4
+2024-01-19,Home & Garden,Lamp,East,7,2899.48,938.71,4
+2024-04-13,Books,Biography,North,10,272.1,63.02,3
+2024-09-28,Books,Novel,South,10,384.58,121.28,1
+2024-09-18,Clothing,T-Shirt,North,9,1132.66,408.21,5
+2024-12-16,Electronics,Monitor,North,1,574.09,169.2,5
+2024-01-07,Clothing,Jacket,West,2,188.56,50.54,1
+2024-05-20,Home & Garden,Lamp,West,2,561.78,223.03,4
+2024-11-30,Toys,Action Figure,North,2,96.94,29.84,5
+2024-05-02,Electronics,Monitor,South,3,4759.36,1128.44,1
+2024-11-24,Books,Biography,West,4,193.19,32.12,1
+2024-04-16,Toys,Puzzle,South,7,583.38,155.01,2
+2024-05-25,Home & Garden,Table,West,8,600.66,197.78,4
+2024-09-29,Home & Garden,Chair,South,2,752.59,175.1,4
+2024-03-31,Electronics,Headphones,West,9,17546.01,3092.63,4
+2024-04-14,Clothing,T-Shirt,South,4,371.23,50.57,5
+2024-06-27,Electronics,Laptop,South,7,1459.09,208.22,4
+2024-12-29,Toys,Puzzle,East,10,712.28,226.51,5
+2024-06-18,Home & Garden,Lamp,North,8,3949.91,1167.78,2
+2024-08-05,Clothing,T-Shirt,East,1,99.79,28.54,5
+2024-03-08,Books,Comic,West,5,88.46,15.12,1
+2024-09-30,Books,Novel,West,5,235.39,33.18,4
+2024-02-06,Clothing,Sneakers,North,5,947.09,217.2,4
+2024-08-06,Toys,Puzzle,North,4,145.83,58.04,4
+2024-07-08,Electronics,Headphones,East,7,8808.94,3518.2,3
+2024-01-24,Books,Novel,West,3,116.69,41.53,4
+2024-05-14,Toys,Action Figure,West,5,149.81,20.73,2
+2024-10-16,Home & Garden,Lamp,West,6,302.96,64.4,3
+2024-05-12,Home & Garden,Lamp,West,4,1652.07,533.53,3
+2024-09-09,Clothing,Jacket,North,5,147.98,42.86,5
+2024-07-20,Clothing,Jacket,South,3,526.35,106.26,5
+2024-11-30,Electronics,Laptop,North,7,8611.76,1315.81,1
+2024-05-28,Clothing,Sneakers,West,5,956.38,347.12,4
+2024-01-18,Toys,Puzzle,South,8,151.14,41.27,5
+2024-08-21,Electronics,Headphones,East,7,8945.17,1508.7,3
+2024-10-15,Toys,Puzzle,North,3,92.55,32.69,3
+2024-01-24,Clothing,Sneakers,South,8,1128.64,125.82,1
+2024-12-05,Electronics,Headphones,East,5,5058.94,630.23,4
+2024-03-02,Home & Garden,Chair,North,7,2989.91,982.23,1
+2024-02-02,Electronics,Smartphone,West,6,10221.66,1413.88,2
+2024-03-05,Toys,Doll,North,10,443.13,50.84,2
+2024-08-07,Clothing,T-Shirt,East,3,138.81,44.9,3
+2024-04-22,Electronics,Smartphone,West,1,1153.19,385.56,3
+2024-04-17,Home & Garden,Plant,West,2,450.77,122.68,2
+2024-08-26,Toys,Puzzle,East,5,225.02,56.91,1
+2024-12-31,Electronics,Laptop,East,3,1636.12,300.08,3
+2024-12-03,Books,Comic,North,4,72.75,11.86,5
+2024-07-15,Books,Novel,North,9,145.47,46.8,2
+2024-09-16,Home & Garden,Lamp,South,3,773.28,205.92,5
+2024-03-02,Toys,Lego,South,5,456.73,83.2,4
+2024-09-29,Clothing,T-Shirt,South,6,958.38,172.02,2
+2024-10-04,Clothing,T-Shirt,South,9,1573.2,221.0,2
+2024-12-21,Clothing,T-Shirt,East,5,562.35,141.95,3
+2024-01-13,Home & Garden,Plant,West,2,517.6,134.9,1
+2024-07-16,Electronics,Monitor,West,2,3704.0,887.96,1
+2024-02-09,Books,Novel,West,2,73.24,26.26,2
+2024-08-14,Clothing,Sneakers,North,6,319.24,126.32,5
+2024-10-06,Electronics,Monitor,South,10,7413.81,1964.6,1
+2024-05-31,Books,Novel,South,6,148.36,19.62,1
+2024-05-14,Electronics,Smartphone,North,9,15112.83,4457.86,3
+2024-12-03,Clothing,T-Shirt,North,10,1405.36,315.97,3
+2024-02-05,Electronics,Smartphone,North,1,693.66,239.04,1
+2024-08-18,Books,Textbook,East,8,358.51,36.91,4
+2024-02-19,Toys,Doll,East,10,175.13,24.76,5
+2024-01-06,Home & Garden,Plant,North,7,1118.38,322.34,4
+2024-01-28,Books,Textbook,East,1,21.76,6.5,1
+2024-06-28,Electronics,Laptop,West,1,377.63,102.21,3
+2024-07-04,Electronics,Headphones,West,10,16637.65,5422.53,2
+2024-08-31,Clothing,Sneakers,East,4,471.53,49.93,5
+2024-04-19,Clothing,Sneakers,North,5,408.22,130.72,5
+2024-06-06,Books,Textbook,East,5,117.32,41.5,3
+2024-12-14,Toys,Doll,East,4,171.16,46.68,4
+2024-06-13,Home & Garden,Chair,South,4,815.95,86.5,5
+2024-02-15,Clothing,T-Shirt,West,2,272.54,96.75,4
+2024-03-26,Home & Garden,Table,South,5,2096.91,705.81,5
+2024-02-10,Clothing,T-Shirt,North,1,156.45,28.71,5
+2024-09-06,Home & Garden,Plant,West,5,1205.86,447.12,2
+2024-07-16,Clothing,T-Shirt,North,9,1784.92,431.99,2
+2024-09-14,Electronics,Smartphone,South,9,15893.89,2996.03,3
+2024-06-10,Books,Novel,North,6,127.27,27.84,2
+2024-04-13,Books,Comic,South,3,137.4,54.54,5
+2024-11-24,Electronics,Headphones,South,3,5069.07,1044.14,4
+2024-02-08,Home & Garden,Chair,West,7,3468.36,729.4,2
+2024-11-09,Toys,Action Figure,East,10,460.38,54.85,2
+2024-05-24,Home & Garden,Chair,South,5,1525.17,571.45,1
+2024-04-18,Books,Comic,East,2,98.9,37.06,2
+2024-11-18,Home & Garden,Plant,North,10,4765.28,1901.37,3
+2024-11-23,Toys,Action Figure,North,3,149.89,30.65,4
+2024-03-17,Toys,Puzzle,South,2,62.08,12.67,5
+2024-02-11,Clothing,Jeans,East,3,378.52,116.31,5
+2024-06-28,Home & Garden,Table,North,2,599.87,101.08,4
+2024-09-16,Clothing,Jacket,East,6,598.21,64.04,4
+2024-01-13,Books,Novel,East,10,387.46,99.63,1
+2024-04-02,Toys,Doll,South,4,260.78,96.26,3
+2024-02-26,Clothing,Jacket,East,7,1086.82,179.37,1
+2024-04-07,Electronics,Headphones,South,3,735.75,189.05,1
+2024-12-12,Electronics,Headphones,South,1,568.29,160.08,4
+2024-10-29,Toys,Action Figure,North,8,128.51,21.03,1
+2024-04-14,Electronics,Headphones,West,4,3374.19,968.93,2
+2024-01-21,Electronics,Monitor,East,7,4785.85,901.75,5
+2024-12-23,Books,Biography,West,2,67.47,17.04,5
+2024-07-06,Electronics,Laptop,South,8,13860.7,4296.77,4
+2024-06-21,Electronics,Smartphone,North,2,2792.06,880.47,5
+2024-07-27,Books,Novel,South,2,66.91,7.8,2
+2024-11-12,Toys,Puzzle,South,4,284.68,89.48,4
+2024-11-10,Clothing,Sneakers,West,2,190.63,73.73,3
+2024-07-01,Toys,Action Figure,South,8,385.72,144.26,2
+2024-10-03,Toys,Action Figure,West,6,184.01,70.71,1
+2024-01-19,Electronics,Monitor,West,9,15937.26,2411.3,5
+2024-06-26,Home & Garden,Lamp,West,4,548.21,74.74,4
+2024-08-23,Electronics,Headphones,West,4,4510.75,1084.67,3
+2024-05-20,Books,Biography,West,7,308.56,38.52,4
+2024-11-28,Books,Novel,South,4,142.73,51.71,4
+2024-03-15,Books,Comic,South,4,161.27,33.59,3
+2024-01-18,Electronics,Laptop,South,7,5576.62,1499.63,5
+2024-06-11,Toys,Action Figure,West,10,632.28,63.3,3
+2024-02-23,Electronics,Headphones,South,2,2021.45,286.2,5
+2024-02-22,Clothing,Jacket,West,2,379.62,76.91,2
+2024-08-14,Home & Garden,Chair,North,4,961.67,376.46,5
+2024-10-02,Books,Comic,South,4,56.04,19.49,4
+2024-03-21,Home & Garden,Chair,East,5,2310.19,892.7,2
+2024-04-21,Electronics,Monitor,West,5,3168.37,825.32,2
+2024-08-15,Home & Garden,Chair,North,6,1212.99,475.5,4
+2024-07-02,Clothing,Jacket,West,6,508.66,123.95,3
+2024-11-26,Home & Garden,Lamp,North,6,587.11,227.76,3

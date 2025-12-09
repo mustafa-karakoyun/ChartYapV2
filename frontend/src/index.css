@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+:root {
+  --swiss-red: #FE0000;
+  --swiss-black: #000000;
+  --swiss-white: #FFFFFF;
+  --swiss-gray: #F5F5F5;
+
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background-color: var(--swiss-white);
+  color: var(--swiss-black);
+}
+
+.swiss-grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 1.5rem;
+}
+
+.swiss-card {
+  border: 1px solid var(--swiss-black);
+  padding: 1.5rem;
+  transition: all 0.2s ease;
+}
+
+.swiss-card:hover {
+  box-shadow: 6px 6px 0px var(--swiss-red);
+  transform: translate(-2px, -2px);
+}
+
+.btn-swiss {
+  background-color: var(--swiss-black);
+  color: var(--swiss-white);
+  padding: 0.75rem 1.5rem;
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.btn-swiss:hover {
+  background-color: var(--swiss-red);
+}
+
+.swiss-title {
+  font-weight: 900;
+  letter-spacing: -0.05em;
+  line-height: 0.95;
+}
